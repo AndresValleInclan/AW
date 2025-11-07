@@ -6,6 +6,6 @@
     $password="1234";
 
     $linea="";
-
+    $linea2="";
 
 ?>
